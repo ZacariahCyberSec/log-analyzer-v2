@@ -1,0 +1,17 @@
+{
+    "failed_attempts_by_ip": {
+        "192.168.1.10": 4,
+        "192.168.1.20": 1
+    },
+    "failed_attempts_by_user": {
+        "root": 3,
+        "admin": 1,
+        "guest": 1
+    },
+    "successful_logins": [
+        "Accepted password for user1 from 192.168.1.15 port 22 ssh2"
+    ],
+    "suspicious_ips": {
+        "192.168.1.10": 4
+    }
+}
